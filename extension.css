@@ -1,0 +1,22 @@
+body {
+    background-image: url('paraiso.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #F4F6F7; 
+}
+
+.titulo {
+    color: #D35400;
+    text-align: center;
+    border: 10px double #8E44AD;
+    padding: 10px;
+}
+
+.texto {
+    text-align: center;
+    margin: 20px;
+    border: 2px solid #2980B9; 
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5); 
+}
+

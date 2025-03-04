@@ -1,0 +1,16 @@
+body {
+    color: hotpink; 
+    text-align: center;
+    background-color: #2C3E50; }
+
+.titulo {
+    color: pink; 
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+.enlaces {
+    text-align: center;
+}
+

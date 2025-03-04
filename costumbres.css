@@ -1,0 +1,23 @@
+body {
+    background-image: url('jutiapamirador.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ECF0F1;
+    text-align: center;
+    margin: 0;
+}
+
+.titulo {
+    color: #8E44AD; 
+    border: 10px solid #1ABC9C; 
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.4); 
+}
+
+.texto {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.6); 
+    width: 100%; 
+    color: #F8F9FA; 
+}

@@ -1,0 +1,22 @@
+body {
+    color: darkturquoise;
+    text-align: center;
+    background-color: violet;
+    background-size: cover;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    border: solid black;
+    background-color: black
+
+}
+
+.enlaces {
+    text-align: center;
+}
+
+
